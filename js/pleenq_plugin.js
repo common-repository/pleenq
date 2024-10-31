@@ -1,0 +1,2 @@
+(function(w,d,s,i){var m=d.createElement('div');m.id='pleenq-disabled';d.body.appendChild(m),f=d.getElementsByTagName(s)[0],j=d.createElement(s);j.async=true;j.src='//cdn.pleenq.com/partners/'+i;f.parentNode.insertBefore(j,f);})
+            (window,document,'script',php_vars.site_key)
